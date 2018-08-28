@@ -1,10 +1,11 @@
 # MapReduce for Data Analytics
 #### ENGG4030 Course Project 
 
-> This is the course projects of ENGG4030 Web-scale Info Analytics, which aims to reproduce classic machine learning algorithms in Hadoop
+> This is the course projects of ENGG4030 Web-scale Info Analytics, which aims to reproduce classic machine learning algorithms in Hadoop. Below are python and java implementation of those algorithms.
 
-1. Community Detection in Online Social Networks: C
-	* Calculate the similarity between any pair of users, based on who they follow
+1. Community Detection in Online Social Networks: 
+	* Calculate the similarity between users
+	* Similarity is based on who they follow
 	* In total 2.5M users
 
 2. Find Frequent Itemset:
