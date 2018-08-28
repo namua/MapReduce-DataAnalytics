@@ -1,4 +1,4 @@
-# MapReduce Implementation of K-Means, BMM, GMM, EM, PCA etc.
+# MapReduce for Data Analytics
 #### ENGG4030 Course Project 
 
 > This is the course projects of ENGG4030 Web-scale Info Analytics, which aims to reproduce classic machine learning algorithms in Hadoop
