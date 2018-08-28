@@ -1,0 +1,150 @@
+# Run 1:
+
+# 0.05
+Cluster Number 0:1430,71,3,622,0
+Cluster Number 1:911,45,2,549,0
+Cluster Number 2:1294,64,7,564,0
+Cluster Number 3:1235,61,8,130,0
+Cluster Number 4:792,39,0,710,0
+Cluster Number 5:1040,52,8,118,0
+Cluster Number 6:1119,55,9,285,0
+Cluster Number 7:501,25,9,133,0
+Cluster Number 8:774,38,6,585,0
+Cluster Number 9:904,45,9,310,0
+
+# 0.1
+Cluster Number 0:1430,143,3,622,0
+Cluster Number 1:911,91,2,549,0
+Cluster Number 2:1294,129,7,564,0
+Cluster Number 3:1235,123,8,130,0
+Cluster Number 4:792,79,0,710,0
+Cluster Number 5:1040,104,9,114,0
+Cluster Number 6:1119,111,9,285,0
+Cluster Number 7:501,50,9,133,0
+Cluster Number 8:774,77,6,585,0
+Cluster Number 9:904,90,9,310,0
+
+# 0.5
+Cluster Number 0:1430,715,3,622,0
+Cluster Number 1:911,455,2,549,0
+Cluster Number 2:1294,647,1,479,0
+Cluster Number 3:1235,617,1,512,0
+Cluster Number 4:792,396,0,710,0
+Cluster Number 5:1040,520,4,230,0
+Cluster Number 6:1119,559,9,285,0
+Cluster Number 7:501,250,4,184,0
+Cluster Number 8:774,387,6,585,0
+Cluster Number 9:904,452,9,310,0
+
+# Run 2:
+
+# 0.05
+Cluster Number 0:1411,70,7,603,0
+Cluster Number 1:581,29,0,512,0
+Cluster Number 2:1003,50,3,410,0
+Cluster Number 3:492,24,9,132,0
+Cluster Number 4:1359,67,6,523,0
+Cluster Number 5:734,36,8,94,0
+Cluster Number 6:1661,83,9,547,0
+Cluster Number 7:1143,57,8,190,0
+Cluster Number 8:559,27,3,191,0
+Cluster Number 9:1057,52,6,298,0
+
+# 0.1
+Cluster Number 0:1411,141,7,603,0
+Cluster Number 1:581,58,0,512,0
+Cluster Number 2:1003,100,3,410,0
+Cluster Number 3:492,49,9,132,0
+Cluster Number 4:1359,135,6,523,0
+Cluster Number 5:734,73,8,94,0
+Cluster Number 6:1661,166,9,547,0
+Cluster Number 7:1143,114,8,190,0
+Cluster Number 8:559,55,3,191,0
+Cluster Number 9:1057,105,6,298,0
+
+# 0.5
+Cluster Number 0:1411,705,1,486,0
+Cluster Number 1:581,290,0,512,0
+Cluster Number 2:1003,501,3,410,0
+Cluster Number 3:492,246,4,202,0
+Cluster Number 4:1359,679,6,523,0
+Cluster Number 5:734,367,0,258,0
+Cluster Number 6:1661,830,9,547,0
+Cluster Number 7:1143,571,1,501,0
+Cluster Number 8:559,279,2,208,0
+Cluster Number 9:1057,528,6,298,
+
+# run 3:
+Cluster Number 0:728,364,4,158,0
+Cluster Number 1:1343,671,9,431,0
+Cluster Number 2:724,362,0,650,0
+Cluster Number 3:850,425,3,340,0
+Cluster Number 4:1822,911,1,451,0
+Cluster Number 5:1237,618,1,386,0
+Cluster Number 6:754,377,6,582,0
+Cluster Number 7:864,432,9,208,0
+Cluster Number 8:836,418,2,520,0
+Cluster Number 9:842,421,1,264,0
+
+# Run 4
+
+# 0.05
+Cluster Number 0:777,38,2,472,0
+Cluster Number 1:405,20,8,33,0
+Cluster Number 2:1114,55,6,304,0
+Cluster Number 3:708,35,4,116,0
+Cluster Number 4:1112,55,8,261,0
+Cluster Number 5:760,38,5,123,0
+Cluster Number 6:1446,72,9,444,0
+Cluster Number 7:1411,70,8,263,0
+Cluster Number 8:1643,82,7,658,0
+Cluster Number 9:624,31,0,557,0
+
+# 0.01
+Cluster Number 0:723,72,6,71,0
+Cluster Number 1:1527,152,8,127,0
+Cluster Number 2:801,80,8,200,0
+Cluster Number 3:318,31,6,85,0
+Cluster Number 4:179,17,8,28,0
+Cluster Number 5:2091,209,3,610,0
+Cluster Number 6:1327,132,8,122,0
+Cluster Number 7:1428,142,8,252,0
+Cluster Number 8:1091,109,6,447,0
+Cluster Number 9:515,51,2,30,0
+
+# 0.5
+Cluster Number 0:723,361,9,174,0
+Cluster Number 1:1527,763,1,639,0
+Cluster Number 2:801,400,8,200,0
+Cluster Number 3:318,159,6,85,0
+Cluster Number 4:179,89,4,72,0
+Cluster Number 5:2091,1045,3,610,0
+Cluster Number 6:1327,663,7,452,0
+Cluster Number 7:1428,714,8,252,0
+Cluster Number 8:1091,545,6,447,0
+Cluster Number 9:515,257,9,150,0
+
+# Run 5
+# 0.5
+Cluster Number 0:796,398,0,705,0
+Cluster Number 1:849,424,1,229,0
+Cluster Number 2:868,434,4,217,0
+Cluster Number 3:935,467,3,372,0
+Cluster Number 4:1380,690,6,563,0
+Cluster Number 5:1299,649,9,398,0
+Cluster Number 6:539,269,4,201,0
+Cluster Number 7:1186,593,1,379,0
+Cluster Number 8:903,451,9,228,0
+Cluster Number 9:1245,622,1,443,0
+
+# 0.05
+Cluster Number 0:796,39,0,705,0
+Cluster Number 1:849,42,8,83,0
+Cluster Number 2:868,43,8,110,0
+Cluster Number 3:935,46,8,138,0
+Cluster Number 4:1380,69,6,563,0
+Cluster Number 5:1299,64,9,398,0
+Cluster Number 6:539,26,9,146,0
+Cluster Number 7:1186,59,8,221,0
+Cluster Number 8:903,45,9,228,0
+Cluster Number 9:1245,62,7,556,0

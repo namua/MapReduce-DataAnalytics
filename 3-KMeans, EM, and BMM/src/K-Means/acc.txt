@@ -1,0 +1,47 @@
+Cluster Number 0:819,40,2,713,0
+Cluster Number 1:996,49,9,328,0
+Cluster Number 2:947,47,7,336,0
+Cluster Number 3:541,27,0,423,0
+Cluster Number 4:1066,53,8,576,0
+Cluster Number 5:1317,65,3,709,0
+Cluster Number 6:489,24,0,446,0
+Cluster Number 7:1273,63,7,492,0
+Cluster Number 8:1635,81,1,1108,0
+Cluster Number 9:917,45,6,794,0
+Threshold 0.05: 5925/10000
+
+Cluster Number 0:819,81,2,713,0
+Cluster Number 1:996,99,9,328,0
+Cluster Number 2:947,94,7,336,0
+Cluster Number 3:541,54,0,423,0
+Cluster Number 4:1066,106,8,576,0
+Cluster Number 5:1317,131,3,709,0
+Cluster Number 6:489,48,0,446,0
+Cluster Number 7:1273,127,7,492,0
+Cluster Number 8:1635,163,1,1108,0
+Cluster Number 9:917,91,6,794,0
+Threshold 0.1: 5925/10000
+
+Cluster Number 0:819,409,2,713,0
+Cluster Number 1:996,498,9,328,0
+Cluster Number 2:947,473,7,336,0
+Cluster Number 3:541,270,0,423,0
+Cluster Number 4:1066,533,8,576,0
+Cluster Number 5:1317,658,3,709,0
+Cluster Number 6:489,244,0,446,0
+Cluster Number 7:1273,636,9,445,0
+Cluster Number 8:1635,817,1,1108,0
+Cluster Number 9:917,458,6,794,0
+Threshold 0.5: 5878/10000
+
+Cluster Number 0:819,819,2,713,0
+Cluster Number 1:996,996,4,422,0
+Cluster Number 2:947,947,7,336,0
+Cluster Number 3:541,541,0,423,0
+Cluster Number 4:1066,1066,8,576,0
+Cluster Number 5:1317,1317,3,709,0
+Cluster Number 6:489,489,0,446,0
+Cluster Number 7:1273,1273,7,492,0
+Cluster Number 8:1635,1635,1,1108,0
+Cluster Number 9:917,917,6,794,0
+Threshold 1: 6019/10000
