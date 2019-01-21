@@ -1,4 +1,4 @@
-# MapReduce for Data Analytics
+# MapReduce for Machine Learning and Data Analytics
 #### ENGG4030 Course Project 
 
 > This is the course projects of ENGG4030 Web-scale Info Analytics, which aims to reproduce classic Machine Learning and Data Science algorithms for Hadoop. Below are Python and Java implementation of these algorithms.
